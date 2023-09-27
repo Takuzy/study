@@ -1,13 +1,13 @@
 # study
 process
 
-## 学习预定
+## 学习预定 CV
 
   1.b站小土堆pytorch入门（100%）
   
   2.台大李弘毅机器学习课程 （20%）
 
-      p34
+      p34　p44
   
   3.吴恩达机器学习课程
   
@@ -27,13 +27,13 @@ process
 
 ・自注意力
 
-・RNN -> LSTM
+・RNN -> LSTM （用于NLP）
 
 ・ model + data 
 
 ・ relu -> hard sigmoid -> any piecewise linear
 
-・GNN
+・GNN（与研究无关，概念了解了一下）
 
 ・Transfomer
 
