@@ -27,6 +27,10 @@ process
 
 ・自注意力
 
+・RNN -> LSTM
+
 ・ model + data 
 
 ・ relu -> hard sigmoid -> any piecewise linear
+
+
