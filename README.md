@@ -23,7 +23,7 @@ process
 
 ・逻辑回归
 
-・CNN
+・CNN    CNN ∈ 自注意力 
 
 ・自注意力
 
@@ -33,4 +33,5 @@ process
 
 ・ relu -> hard sigmoid -> any piecewise linear
 
+・GNN
 
