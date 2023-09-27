@@ -35,3 +35,9 @@ process
 
 ・GNN
 
+・Transfomer
+
+・GAN
+
+・Diffusion
+
