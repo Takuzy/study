@@ -35,7 +35,7 @@ process
 
 ・GNN（与研究无关，概念了解了一下）
 
-・Transfomer
+・Transfomer seq2seq
 
 ・GAN
 
